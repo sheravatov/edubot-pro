@@ -1,0 +1,14 @@
+aiogram==3.10.0
+django>=5.0
+dj-database-url
+psycopg2-binary
+python-docx
+python-pptx
+fpdf
+openai
+uvicorn
+gunicorn
+whitenoise
+asgiref
+requests
+python-dotenv
